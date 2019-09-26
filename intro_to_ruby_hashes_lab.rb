@@ -1,6 +1,6 @@
 def base_hash
   airports = {
-    
+    new_york
   }
 end
 
