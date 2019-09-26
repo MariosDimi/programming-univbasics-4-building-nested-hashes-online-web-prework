@@ -82,8 +82,19 @@ airports_in_usa => {
   :airport_names =>
   {
     :new_york[:air1] =>
-    "JFK"=> "estimated value" =>"$100"
+    "JFK"=> "estimated value" =>"$300"
   }
+  {
+    :new_york[:air2] =>
+    "LaGuardia"=> "estimated value" =>"$100"
+  }
+  {
+    :athhes[:air1] =>
+    "Eleftherios Venizelos"=> "estimated value" =>"$200"
+  }
+  {
+    :athens[:air2] =>
+    "Hellinikon"=> "estimated value" =>"$90"
   }
 }
 end
