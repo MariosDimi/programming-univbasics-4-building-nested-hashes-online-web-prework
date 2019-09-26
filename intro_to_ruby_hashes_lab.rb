@@ -44,8 +44,12 @@ airports_in_usa => {
     airports = {
       :pieces => ,
       :rent_in_dollars => {
-        :one_piece_owend => 50
-        :second+
+        :new_york =>
+          :air1 =>50
+          :air2 =>30
+        :athens =>
+          :air1 =>40
+          :air2 =>30
       }
       
 end
