@@ -43,7 +43,9 @@ airports_in_usa => {
     },
     airports = {
       :pieces => ,
-      :rent_in_dollars =>
+      :rent_in_dollars => {
+        :one_piece_
+      }
       
 end
 
