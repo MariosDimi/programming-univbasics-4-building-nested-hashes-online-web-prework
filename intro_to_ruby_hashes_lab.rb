@@ -2,9 +2,8 @@ def base_hash
   airports_in_usa => {
     :new_york => {
       :air1 => "JFK",
-      :air2 => "La"
+      :air2 => "LaGuardia"
     }
-  }
   }
 end
 
