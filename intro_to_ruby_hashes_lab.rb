@@ -4,6 +4,7 @@ def base_hash
       :air1 => "JFK",
       :air2 => "LaGuardia"
     },
+    airports_in_greece => {
     :athens => {
       :air1 => "Eleftherios Venizelos",
       :air2 => "Hellinikon"
@@ -17,10 +18,12 @@ def monopoly_with_second_tier
       :air1 => "JFK",
       :air2 => "LaGuardia"
     },
+    airports_in_greece => {
     :athens => {
       :air1 => "Eleftherios Venizelos",
       :air2 => "Hellinikon"
-    }
+    },
+    a
   }
 end
 
