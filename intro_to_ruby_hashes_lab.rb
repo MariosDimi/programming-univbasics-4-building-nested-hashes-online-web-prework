@@ -1,6 +1,10 @@
 def base_hash
-  airports = {
-    new_york
+  airports_in_usa => {
+    :new_york => {
+      :air1 => "JFK",
+      :air2 => "La"
+    }
+  }
   }
 end
 
