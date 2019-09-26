@@ -23,7 +23,8 @@ def monopoly_with_second_tier
       :air1 => "Eleftherios Venizelos",
       :air2 => "Hellinikon"
     },
-    airports =>
+    airports = {
+      :pieces 
   }
 end
 
