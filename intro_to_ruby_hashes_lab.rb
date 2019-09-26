@@ -51,7 +51,9 @@ airports_in_usa => {
           :air1 =>40
           :air2 =>30
       }
-      
+    }
+  }
+}
 end
 
 def monopoly_with_fourth_tier
