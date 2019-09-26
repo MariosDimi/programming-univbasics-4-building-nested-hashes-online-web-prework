@@ -3,6 +3,10 @@ def base_hash
     :new_york => {
       :air1 => "JFK",
       :air2 => "LaGuardia"
+    },
+    :athens => {
+      :air1 => "Eleftherios Venizelos",
+      :air2 => "Hellinikon"
     }
   }
 end
