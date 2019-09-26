@@ -81,7 +81,8 @@ airports_in_usa => {
   },
   :airport_names =>
   {
-    :new_york[:air1] => JFK
+    :new_york[:air1] =>
+    "JFK"=> "estimated value" =>
   }
 }
 end
