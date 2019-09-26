@@ -80,6 +80,8 @@ airports_in_usa => {
     }
   },
   :airport_names =>
-  
+  {
+    :new_york[:air1] => JFK
+  }
 }
 end
