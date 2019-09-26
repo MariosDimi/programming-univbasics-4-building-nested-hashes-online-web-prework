@@ -57,8 +57,28 @@ airports_in_usa => {
 end
 
 def monopoly_with_fourth_tier
-  # When you start writing the implementation for this method, copy the Hash
-  # you built in the previous method. Run the tests. They will fail, but
-  # they'll guide you in how to modify what you just did to have more
-  # complexity.
+airports_in_usa => {
+    :new_york => {
+      :air1 => "JFK",
+      :air2 => "LaGuardia"
+    },
+    airports_in_greece => {
+    :athens => {
+      :air1 => "Eleftherios Venizelos",
+      :air2 => "Hellinikon"
+    },
+    airports = {
+      :pieces => ,
+      :rent_in_dollars => {
+        :new_york =>
+          :air1 =>50
+          :air2 =>30
+        :athens =>
+          :air1 =>40
+          :air2 =>30
+      }
+    }
+  },
+  
+}
 end
